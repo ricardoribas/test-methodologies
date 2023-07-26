@@ -1,0 +1,27 @@
+{
+  "name": "test-methodologies",
+  "version": "1.0.0",
+  "description": "test methodologies in a single repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardoribas/test-methodologies.git"
+  },
+  "keywords": [
+    "test",
+    "jest",
+    "unit",
+    "integration",
+    "parametrized",
+    "e2e"
+  ],
+  "author": "Ricardo Ribas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardoribas/test-methodologies/issues"
+  },
+  "homepage": "https://github.com/ricardoribas/test-methodologies#readme"
+}
